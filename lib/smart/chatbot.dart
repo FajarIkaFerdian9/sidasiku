@@ -15,7 +15,7 @@ class _ChatbotPageState extends State<ChatbotPage> {
   final TextEditingController _controller = TextEditingController();
   List<Map<String, String>> messages = [];
   int _selectedIndex = 2;
-
+//kmnn
   // Fungsi untuk menangani navigasi pada bottom navigation bar
   void _onItemTapped(int index) {
     setState(() {
